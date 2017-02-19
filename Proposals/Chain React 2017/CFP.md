@@ -38,7 +38,7 @@ The talk will be primarily slides with some interactive demos, so it would be be
 # Tags
 *Tag your talk to make it easier for event organizers to be able to find. Examples are "ruby, javascript, rails".*
 
-hybrid,responsive,redux,saga,agile
+hybrid,responsive,redux,redux-saga,agile,react native
 
 # Bio
 *This field supports Markdown. Your bio sells you. Who are you? Why should people listen to you? Who's your favorite member of One Direction? This is your chance to put it all out there.*
