@@ -44,3 +44,7 @@ hybrid,responsive,redux,redux-saga,agile,react native
 *This field supports Markdown. Your bio sells you. Who are you? Why should people listen to you? Who's your favorite member of One Direction? This is your chance to put it all out there.*
 
 Daniel Vicory is a Senior Software Engineer at [AppFolio](https://www.appfolioinc.com/). For the past two years he has focused on delivering awesome mobile experiences and putting smiles on users’ faces. His open-source contributions include [Crosswalk](https://crosswalk-project.org) and co-maintaining [react-native-webview-crosswalk](https://github.com/jordansexton/react-native-webview-crosswalk).
+
+# Additional Information
+
+I have been working with React Native since early-mid 2016, for both work and personal projects. I won a Hack Day in part because of React Native. I've given several talks internally at AppFolio describing the work we've done with our app and other teams have started to consider using it because of our work. I try to closely follow the amazing work that people in the React Native community are doing and would be proud to be able to share how some of that has enabled us to be successful. I'd like to enable all of us to create a better mobile platform without sacrifice.
